@@ -55,7 +55,7 @@ I'm a passionate **Software Engineer** with **8 years of experience** building s
 ## 🤝 Let's Connect
 
 - 📧 Email: [gjelirefail@gmail.com](mailto:gjelirefail@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprefail-gjeli-0680a7b4rofile](https://linkedin.com/in/refail-gjeli-0680a7b4)
+- 💼 LinkedIn: [linkedin.com/in/refail-gjeli-0680a7b4rofile](https://linkedin.com/in/refail-gjeli-0680a7b4)
 - 🌐 Portfolio: [refailgjeli.com](https://refailgjeli.com)
 
 ## 🚀 Current Focus
