@@ -1,12 +1,79 @@
-# Agent Orchestration Work
+# Hi there! 👋 I'm Refail Gjeli
 
-Our recent projects have been centered on agent orchestration, particularly focusing on backend expertise while integrating our system with frontend experiences.  
+## 🚀 About Me
 
-## OpenAI and ChatKit Agents
-We have successfully implemented agent orchestration workflows that involve OpenAI models to enhance our deployment processes. Our work with ChatKit agents allows us to streamline interactions and improve user experiences through dynamic and responsive agents.  
+I'm a passionate **Backend Software Engineer** with **8 years of experience** building scalable web applications and solving complex technical challenges. My primary expertise is in backend development, with extensive experience across the full stack including modern frontend technologies. Recently, I've focused heavily on **agent orchestration and automation**, working with cutting-edge AI technologies.
 
-### Backend Expertise
-Our team excels in developing robust backend systems that support complex orchestration tasks. With a deep understanding of server-side technologies, we ensure stability and scalability while managing agent communications efficiently.
+## 🤖 Recent Focus: Agent Orchestration
 
-### Frontend Experience
-Complementing our backend skills, we also focus on frontend experience to deliver a seamless integration with user-facing applications. This dual expertise ensures that our agent orchestration is not only powerful but also user-friendly and accessible.
+I have worked extensively on agent orchestration, leveraging:
+- **OpenAI Agents** - Building intelligent workflow automation with GPT models
+- **ChatKit Agents** - Developing conversational AI systems for seamless user interactions
+
+These projects combine backend robustness with frontend integration, enabling sophisticated multi-agent systems that are both powerful and user-friendly.
+
+## 💻 Tech Stack
+
+### Backend (Primary Expertise)
+- **Node.js** - Server-side JavaScript runtime
+- **NestJS** - Scalable Node.js server-side applications
+- **Express.js** - Fast and minimalist web framework
+- **RESTful APIs** - Designing and implementing robust APIs
+- **Agent Frameworks** - OpenAI, ChatKit, and other orchestration tools
+
+### Frontend (Extended Expertise)
+- **React.js** - Building dynamic and interactive user interfaces
+- **Next.js** - Server-side rendering and modern React applications
+- **JavaScript/TypeScript** - Modern ES6+ and type-safe development
+- **HTML5 & CSS3** - Semantic markup and responsive design
+
+### Database
+- **MongoDB** - NoSQL database design and optimization
+- **PostgreSQL** - Open-source, object-relational database management system (RDBMS)
+- **Mongoose** - Elegant MongoDB object modeling
+
+### Tools & Technologies
+- **Git & GitHub** - Version control and collaboration
+- **Docker** - Containerization and deployment
+- **AWS/Cloud Services** - Cloud infrastructure and deployment
+- **Jest/Testing** - Unit and integration testing
+
+## 🔧 What I Do
+
+- **Backend Architecture**: Designing scalable and maintainable server-side systems
+- **Agent Orchestration**: Building intelligent multi-agent systems with OpenAI and ChatKit
+- **API Development**: Designing and building robust RESTful and GraphQL APIs
+- **Full-Stack Development**: End-to-end application development with focus on backend excellence
+- **Database Design**: Optimizing MongoDB schemas and PostgreSQL queries
+- **Frontend Integration**: Creating seamless connections between backend services and modern UI frameworks
+
+## 🌟 Experience Highlights
+
+- �� **8+ years** of hands-on software development experience
+- ✅ **Specialized in backend development** with extensive full-stack capabilities
+- ✅ **Agent orchestration expertise** with OpenAI and ChatKit platforms
+- ✅ **Multiple successful projects** delivered from concept to production
+- ✅ **NestJS & Node.js** expertise for enterprise-grade applications
+- ✅ **Modern React ecosystem** including Next.js and advanced React patterns
+- ✅ **Database optimization** and NoSQL/RDBMS design patterns
+- ✅ **Cloud deployment** and DevOps best practices
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=refail&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=refail&layout=compact&theme=dark)
+
+## 🤝 Let's Connect
+
+- 📧 Email: [gjelirefail@gmail.com](mailto:gjelirefail@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/refail-gjeli-0680a7b4](https://linkedin.com/in/refail-gjeli-0680a7b4)
+- 🌐 Portfolio: [refailgjeli.com](https://refailgjeli.com)
+
+## 🚀 Current Focus
+
+I'm deeply invested in **agent orchestration and AI automation**, exploring advanced patterns in multi-agent systems, serverless architectures, and modern DevOps practices. Always excited to collaborate on innovative projects that leverage AI and automation to solve complex problems, and to contribute to open-source communities.
+
+---
+
+⭐️ From [refail](https://github.com/refail)
