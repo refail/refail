@@ -8,7 +8,7 @@ I'm a passionate **Backend Software Engineer** with **8 years of experience** bu
 
 I have worked extensively on agent orchestration, leveraging:
 - **OpenAI Agents** - Building intelligent workflow automation with GPT models
-- **ChatKit Agents** - Developing conversational AI systems for seamless user interactions
+- **ChatKit Library** - Developing conversational AI systems for seamless user interactions
 
 These projects combine backend robustness with frontend integration, enabling sophisticated multi-agent systems that are both powerful and user-friendly.
 
