@@ -49,7 +49,6 @@ These projects combine backend robustness with frontend integration, enabling so
 
 ## 🌟 Experience Highlights
 
-- �� **8+ years** of hands-on software development experience
 - ✅ **Specialized in backend development** with extensive full-stack capabilities
 - ✅ **Agent orchestration expertise** with OpenAI and ChatKit platforms
 - ✅ **Multiple successful projects** delivered from concept to production
@@ -57,18 +56,6 @@ These projects combine backend robustness with frontend integration, enabling so
 - ✅ **Modern React ecosystem** including Next.js and advanced React patterns
 - ✅ **Database optimization** and NoSQL/RDBMS design patterns
 - ✅ **Cloud deployment** and DevOps best practices
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=refail&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=refail&layout=compact&theme=dark)
-
-## 🤝 Let's Connect
-
-- 📧 Email: [gjelirefail@gmail.com](mailto:gjelirefail@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/refail-gjeli-0680a7b4](https://linkedin.com/in/refail-gjeli-0680a7b4)
-- 🌐 Portfolio: [refailgjeli.com](https://refailgjeli.com)
 
 ## 🚀 Current Focus
 
